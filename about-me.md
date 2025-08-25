@@ -1,7 +1,7 @@
 # cs495-baseline-901414197
 cs495 repo
 
-My name is Lleyton Parsons, and I am a junior here in Ball State. 
+My name is Lleyton Parsons, and I am a junior here in Ball State studying Computer Science, no clear concetration yet but this emester will hopefully figure it out for me.
 
 I have used Java, Python, HTML, and C++. Most of my best work has been with Java on IntelliJ IDEA.
 The largest program/project I've worked on is a movie reccomendator that took info from IMDb, but that was a group project. I put my fair share of work into it though.
