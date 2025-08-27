@@ -3,3 +3,5 @@ ready to start programming just yet, feeling nervous at that moment.
 
 I plan to rebuild my confidence as we progress through the semester,
 as I get more comfortable with coding again.
+
+Nothing feels too overwhelming (at least for now), but if it were something that looms over me during programming it would simply just the possibility of being stumped at times.
