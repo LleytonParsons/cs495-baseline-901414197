@@ -9,5 +9,3 @@ Largest Project: IMDb movie recommendation program.
 Most Confortable: Providing solutions, whether for improvising for setting up grounds for improvement.
 Least Comfortable: Being stumped for hours on end.
 Concentration: Web and mobile development.
-
-Nothing feels too overwhelming (at least for now), but if it were something that looms over me during programming it would simply just the possibility of being stumped at times.
